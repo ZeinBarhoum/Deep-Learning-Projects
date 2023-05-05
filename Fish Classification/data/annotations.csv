@@ -1,361 +1,361 @@
 path,label
-./data/imgs/000.jpg,0
-./data/imgs/001.jpg,0
-./data/imgs/002.jpg,0
-./data/imgs/003.jpg,0
-./data/imgs/004.jpg,0
-./data/imgs/005.jpg,0
-./data/imgs/006.jpg,0
-./data/imgs/007.jpg,0
-./data/imgs/008.jpg,0
-./data/imgs/009.jpg,0
-./data/imgs/010.jpg,0
-./data/imgs/011.jpg,0
-./data/imgs/012.jpg,0
-./data/imgs/013.jpg,0
-./data/imgs/014.jpg,0
-./data/imgs/015.jpg,0
-./data/imgs/016.jpg,0
-./data/imgs/017.jpg,0
-./data/imgs/018.jpg,0
-./data/imgs/019.jpg,0
-./data/imgs/020.jpg,0
-./data/imgs/021.jpg,0
-./data/imgs/022.jpg,0
-./data/imgs/023.jpg,0
-./data/imgs/024.jpg,0
-./data/imgs/025.jpg,0
-./data/imgs/026.jpg,0
-./data/imgs/027.jpg,0
-./data/imgs/028.jpg,0
-./data/imgs/029.jpg,0
-./data/imgs/030.jpg,0
-./data/imgs/031.jpg,0
-./data/imgs/032.jpg,0
-./data/imgs/033.jpg,0
-./data/imgs/034.jpg,0
-./data/imgs/035.jpg,0
-./data/imgs/036.jpg,0
-./data/imgs/037.jpg,0
-./data/imgs/038.jpg,0
-./data/imgs/039.jpg,0
-./data/imgs/040.jpg,0
-./data/imgs/041.jpg,0
-./data/imgs/042.jpg,0
-./data/imgs/043.jpg,0
-./data/imgs/044.jpg,0
-./data/imgs/045.jpg,0
-./data/imgs/046.jpg,0
-./data/imgs/047.jpg,0
-./data/imgs/048.jpg,0
-./data/imgs/049.jpg,0
-./data/imgs/050.jpg,0
-./data/imgs/051.jpg,0
-./data/imgs/052.jpg,0
-./data/imgs/053.jpg,0
-./data/imgs/054.jpg,0
-./data/imgs/055.jpg,0
-./data/imgs/056.jpg,0
-./data/imgs/057.jpg,0
-./data/imgs/058.jpg,0
-./data/imgs/059.jpg,0
-./data/imgs/060.jpg,0
-./data/imgs/061.jpg,0
-./data/imgs/062.jpg,0
-./data/imgs/063.jpg,0
-./data/imgs/064.jpg,0
-./data/imgs/065.jpg,0
-./data/imgs/066.jpg,0
-./data/imgs/067.jpg,0
-./data/imgs/068.jpg,0
-./data/imgs/069.jpg,0
-./data/imgs/070.jpg,0
-./data/imgs/071.jpg,0
-./data/imgs/072.jpg,0
-./data/imgs/073.jpg,0
-./data/imgs/074.jpg,0
-./data/imgs/075.jpg,0
-./data/imgs/076.jpg,0
-./data/imgs/077.jpg,0
-./data/imgs/078.jpg,0
-./data/imgs/079.jpg,0
-./data/imgs/080.jpg,0
-./data/imgs/081.jpg,0
-./data/imgs/082.jpg,0
-./data/imgs/083.jpg,0
-./data/imgs/084.jpg,0
-./data/imgs/085.jpg,0
-./data/imgs/086.jpg,0
-./data/imgs/087.jpg,0
-./data/imgs/088.jpg,0
-./data/imgs/089.jpg,0
-./data/imgs/090.jpg,0
-./data/imgs/091.jpg,0
-./data/imgs/092.jpg,0
-./data/imgs/093.jpg,0
-./data/imgs/094.jpg,0
-./data/imgs/095.jpg,0
-./data/imgs/096.jpg,0
-./data/imgs/097.jpg,0
-./data/imgs/098.jpg,0
-./data/imgs/099.jpg,0
-./data/imgs/100.jpg,0
-./data/imgs/101.jpg,0
-./data/imgs/102.jpg,0
-./data/imgs/103.jpg,0
-./data/imgs/104.jpg,0
-./data/imgs/105.jpg,0
-./data/imgs/106.jpg,0
-./data/imgs/107.jpg,0
-./data/imgs/108.jpg,0
-./data/imgs/109.jpg,0
-./data/imgs/110.jpg,0
-./data/imgs/111.jpg,0
-./data/imgs/112.jpg,0
-./data/imgs/113.jpg,0
-./data/imgs/114.jpg,0
-./data/imgs/115.jpg,0
-./data/imgs/116.jpg,0
-./data/imgs/117.jpg,0
-./data/imgs/118.jpg,0
-./data/imgs/119.jpg,0
-./data/imgs/120.jpg,0
-./data/imgs/121.jpg,0
-./data/imgs/122.jpg,0
-./data/imgs/123.jpg,0
-./data/imgs/124.jpg,0
-./data/imgs/125.jpg,0
-./data/imgs/126.jpg,0
-./data/imgs/127.jpg,0
-./data/imgs/128.jpg,0
-./data/imgs/129.jpg,0
-./data/imgs/130.jpg,0
-./data/imgs/131.jpg,0
-./data/imgs/132.jpg,0
-./data/imgs/133.jpg,0
-./data/imgs/134.jpg,0
-./data/imgs/135.jpg,0
-./data/imgs/136.jpg,1
-./data/imgs/137.jpg,1
-./data/imgs/138.jpg,1
-./data/imgs/139.jpg,1
-./data/imgs/140.jpg,1
-./data/imgs/141.jpg,1
-./data/imgs/142.jpg,1
-./data/imgs/143.jpg,1
-./data/imgs/144.jpg,1
-./data/imgs/145.jpg,1
-./data/imgs/146.jpg,1
-./data/imgs/147.jpg,1
-./data/imgs/148.jpg,1
-./data/imgs/149.jpg,1
-./data/imgs/150.jpg,1
-./data/imgs/151.jpg,1
-./data/imgs/152.jpg,1
-./data/imgs/153.jpg,1
-./data/imgs/154.jpg,1
-./data/imgs/155.jpg,1
-./data/imgs/156.jpg,1
-./data/imgs/157.jpg,1
-./data/imgs/158.jpg,1
-./data/imgs/159.jpg,1
-./data/imgs/160.jpg,1
-./data/imgs/161.jpg,1
-./data/imgs/162.jpg,1
-./data/imgs/163.jpg,1
-./data/imgs/164.jpg,1
-./data/imgs/165.jpg,1
-./data/imgs/166.jpg,1
-./data/imgs/167.jpg,1
-./data/imgs/168.jpg,1
-./data/imgs/169.jpg,1
-./data/imgs/170.jpg,1
-./data/imgs/171.jpg,1
-./data/imgs/172.jpg,1
-./data/imgs/173.jpg,1
-./data/imgs/174.jpg,1
-./data/imgs/175.jpg,1
-./data/imgs/176.jpg,1
-./data/imgs/177.jpg,1
-./data/imgs/178.jpg,1
-./data/imgs/179.jpg,1
-./data/imgs/180.jpg,1
-./data/imgs/181.jpg,1
-./data/imgs/182.jpg,1
-./data/imgs/183.jpg,1
-./data/imgs/184.jpg,1
-./data/imgs/185.jpg,1
-./data/imgs/186.jpg,1
-./data/imgs/187.jpg,1
-./data/imgs/188.jpg,1
-./data/imgs/189.jpg,1
-./data/imgs/190.jpg,1
-./data/imgs/191.jpg,1
-./data/imgs/192.jpg,1
-./data/imgs/193.jpg,1
-./data/imgs/194.jpg,1
-./data/imgs/195.jpg,1
-./data/imgs/196.jpg,1
-./data/imgs/197.jpg,1
-./data/imgs/198.jpg,1
-./data/imgs/199.jpg,1
-./data/imgs/200.jpg,1
-./data/imgs/201.jpg,1
-./data/imgs/202.jpg,1
-./data/imgs/203.jpg,1
-./data/imgs/204.jpg,1
-./data/imgs/205.jpg,1
-./data/imgs/206.jpg,1
-./data/imgs/207.jpg,1
-./data/imgs/208.jpg,1
-./data/imgs/209.jpg,1
-./data/imgs/210.jpg,1
-./data/imgs/211.jpg,1
-./data/imgs/212.jpg,1
-./data/imgs/213.jpg,1
-./data/imgs/214.jpg,1
-./data/imgs/215.jpg,1
-./data/imgs/216.jpg,1
-./data/imgs/217.jpg,1
-./data/imgs/218.jpg,1
-./data/imgs/219.jpg,1
-./data/imgs/220.jpg,1
-./data/imgs/221.jpg,1
-./data/imgs/222.jpg,1
-./data/imgs/223.jpg,1
-./data/imgs/224.jpg,1
-./data/imgs/225.jpg,1
-./data/imgs/226.jpg,1
-./data/imgs/227.jpg,1
-./data/imgs/228.jpg,1
-./data/imgs/229.jpg,1
-./data/imgs/230.jpg,1
-./data/imgs/231.jpg,1
-./data/imgs/232.jpg,1
-./data/imgs/233.jpg,1
-./data/imgs/234.jpg,1
-./data/imgs/235.jpg,1
-./data/imgs/236.jpg,1
-./data/imgs/237.jpg,1
-./data/imgs/238.jpg,1
-./data/imgs/239.jpg,1
-./data/imgs/240.jpg,1
-./data/imgs/241.jpg,1
-./data/imgs/242.jpg,1
-./data/imgs/243.jpg,1
-./data/imgs/244.jpg,1
-./data/imgs/245.jpg,1
-./data/imgs/246.jpg,2
-./data/imgs/247.jpg,2
-./data/imgs/248.jpg,2
-./data/imgs/249.jpg,2
-./data/imgs/250.jpg,2
-./data/imgs/251.jpg,2
-./data/imgs/252.jpg,2
-./data/imgs/253.jpg,2
-./data/imgs/254.jpg,2
-./data/imgs/255.jpg,2
-./data/imgs/256.jpg,2
-./data/imgs/257.jpg,2
-./data/imgs/258.jpg,2
-./data/imgs/259.jpg,2
-./data/imgs/260.jpg,2
-./data/imgs/261.jpg,2
-./data/imgs/262.jpg,2
-./data/imgs/263.jpg,2
-./data/imgs/264.jpg,2
-./data/imgs/265.jpg,2
-./data/imgs/266.jpg,2
-./data/imgs/267.jpg,2
-./data/imgs/268.jpg,2
-./data/imgs/269.jpg,2
-./data/imgs/270.jpg,2
-./data/imgs/271.jpg,2
-./data/imgs/272.jpg,2
-./data/imgs/273.jpg,2
-./data/imgs/274.jpg,2
-./data/imgs/275.jpg,2
-./data/imgs/276.jpg,2
-./data/imgs/277.jpg,2
-./data/imgs/278.jpg,2
-./data/imgs/279.jpg,2
-./data/imgs/280.jpg,2
-./data/imgs/281.jpg,2
-./data/imgs/282.jpg,2
-./data/imgs/283.jpg,2
-./data/imgs/284.jpg,2
-./data/imgs/285.jpg,2
-./data/imgs/286.jpg,2
-./data/imgs/287.jpg,2
-./data/imgs/288.jpg,2
-./data/imgs/289.jpg,2
-./data/imgs/290.jpg,2
-./data/imgs/291.jpg,2
-./data/imgs/292.jpg,2
-./data/imgs/293.jpg,2
-./data/imgs/294.jpg,2
-./data/imgs/295.jpg,2
-./data/imgs/296.jpg,2
-./data/imgs/297.jpg,2
-./data/imgs/298.jpg,2
-./data/imgs/299.jpg,2
-./data/imgs/300.jpg,2
-./data/imgs/301.jpg,2
-./data/imgs/302.jpg,2
-./data/imgs/303.jpg,2
-./data/imgs/304.jpg,2
-./data/imgs/305.jpg,2
-./data/imgs/306.jpg,2
-./data/imgs/307.jpg,2
-./data/imgs/308.jpg,2
-./data/imgs/309.jpg,2
-./data/imgs/310.jpg,2
-./data/imgs/311.jpg,2
-./data/imgs/312.jpg,2
-./data/imgs/313.jpg,2
-./data/imgs/314.jpg,2
-./data/imgs/315.jpg,2
-./data/imgs/316.jpg,2
-./data/imgs/317.jpg,2
-./data/imgs/318.jpg,2
-./data/imgs/319.jpg,2
-./data/imgs/320.jpg,2
-./data/imgs/321.jpg,2
-./data/imgs/322.jpg,2
-./data/imgs/323.jpg,2
-./data/imgs/324.jpg,2
-./data/imgs/325.jpg,2
-./data/imgs/326.jpg,2
-./data/imgs/327.jpg,2
-./data/imgs/328.jpg,2
-./data/imgs/329.jpg,2
-./data/imgs/330.jpg,2
-./data/imgs/331.jpg,2
-./data/imgs/332.jpg,2
-./data/imgs/333.jpg,2
-./data/imgs/334.jpg,2
-./data/imgs/335.jpg,2
-./data/imgs/336.jpg,2
-./data/imgs/337.jpg,2
-./data/imgs/338.jpg,2
-./data/imgs/339.jpg,2
-./data/imgs/340.jpg,2
-./data/imgs/341.jpg,2
-./data/imgs/342.jpg,2
-./data/imgs/343.jpg,2
-./data/imgs/344.jpg,2
-./data/imgs/345.jpg,2
-./data/imgs/346.jpg,2
-./data/imgs/347.jpg,2
-./data/imgs/348.jpg,2
-./data/imgs/349.jpg,2
-./data/imgs/350.jpg,2
-./data/imgs/351.jpg,2
-./data/imgs/352.jpg,2
-./data/imgs/353.jpg,2
-./data/imgs/354.jpg,2
-./data/imgs/355.jpg,2
-./data/imgs/356.jpg,2
-./data/imgs/357.jpg,2
-./data/imgs/358.jpg,2
-./data/imgs/359.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/000.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/001.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/002.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/003.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/004.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/005.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/006.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/007.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/008.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/009.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/010.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/011.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/012.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/013.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/014.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/015.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/016.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/017.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/018.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/019.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/020.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/021.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/022.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/023.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/024.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/025.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/026.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/027.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/028.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/029.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/030.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/031.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/032.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/033.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/034.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/035.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/036.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/037.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/038.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/039.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/040.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/041.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/042.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/043.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/044.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/045.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/046.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/047.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/048.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/049.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/050.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/051.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/052.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/053.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/054.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/055.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/056.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/057.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/058.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/059.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/060.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/061.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/062.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/063.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/064.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/065.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/066.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/067.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/068.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/069.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/070.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/071.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/072.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/073.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/074.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/075.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/076.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/077.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/078.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/079.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/080.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/081.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/082.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/083.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/084.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/085.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/086.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/087.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/088.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/089.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/090.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/091.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/092.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/093.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/094.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/095.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/096.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/097.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/098.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/099.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/100.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/101.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/102.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/103.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/104.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/105.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/106.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/107.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/108.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/109.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/110.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/111.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/112.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/113.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/114.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/115.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/116.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/117.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/118.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/119.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/120.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/121.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/122.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/123.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/124.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/125.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/126.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/127.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/128.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/129.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/130.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/131.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/132.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/133.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/134.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/135.jpg,0
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/136.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/137.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/138.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/139.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/140.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/141.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/142.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/143.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/144.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/145.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/146.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/147.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/148.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/149.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/150.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/151.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/152.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/153.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/154.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/155.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/156.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/157.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/158.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/159.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/160.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/161.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/162.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/163.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/164.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/165.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/166.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/167.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/168.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/169.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/170.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/171.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/172.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/173.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/174.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/175.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/176.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/177.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/178.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/179.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/180.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/181.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/182.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/183.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/184.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/185.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/186.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/187.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/188.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/189.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/190.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/191.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/192.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/193.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/194.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/195.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/196.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/197.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/198.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/199.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/200.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/201.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/202.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/203.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/204.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/205.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/206.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/207.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/208.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/209.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/210.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/211.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/212.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/213.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/214.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/215.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/216.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/217.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/218.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/219.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/220.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/221.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/222.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/223.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/224.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/225.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/226.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/227.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/228.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/229.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/230.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/231.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/232.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/233.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/234.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/235.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/236.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/237.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/238.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/239.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/240.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/241.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/242.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/243.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/244.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/245.jpg,1
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/246.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/247.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/248.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/249.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/250.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/251.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/252.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/253.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/254.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/255.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/256.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/257.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/258.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/259.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/260.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/261.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/262.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/263.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/264.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/265.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/266.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/267.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/268.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/269.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/270.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/271.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/272.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/273.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/274.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/275.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/276.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/277.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/278.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/279.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/280.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/281.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/282.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/283.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/284.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/285.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/286.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/287.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/288.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/289.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/290.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/291.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/292.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/293.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/294.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/295.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/296.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/297.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/298.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/299.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/300.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/301.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/302.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/303.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/304.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/305.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/306.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/307.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/308.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/309.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/310.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/311.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/312.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/313.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/314.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/315.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/316.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/317.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/318.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/319.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/320.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/321.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/322.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/323.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/324.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/325.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/326.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/327.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/328.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/329.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/330.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/331.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/332.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/333.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/334.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/335.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/336.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/337.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/338.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/339.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/340.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/341.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/342.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/343.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/344.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/345.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/346.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/347.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/348.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/349.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/350.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/351.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/352.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/353.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/354.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/355.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/356.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/357.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/358.jpg,2
+/home/zein/personal/Deep-Learning-Projects/Fish Classification/data/imgs/359.jpg,2
